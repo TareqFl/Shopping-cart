@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "lodash": "^4.17.21"
+  },
+  "name": "shopping-cart",
+  "version": "1.0.0",
+  "description": "This is a small e-commerce website id like to work on and will update it everytime i learn something new",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tareq Fleyfel",
+  "license": "ISC"
+}

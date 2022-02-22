@@ -1,0 +1,117 @@
+body{
+  font-family: Ubuntu;
+  text-align: center;
+
+
+/* background-color: red; */
+}
+.trndy-padding {
+  padding-left: 64px;
+}
+
+
+.p-padding {
+  padding-right: 4px;
+}
+
+.ctg-pddng {
+padding-bottom: 0;
+}
+
+/* hr padding after categories */
+.hr-pdn{
+margin-top: 0;
+}
+
+
+.srch-br-wdth {
+  width: 560px;
+}
+
+.rt-aligned {
+  text-align: right;
+}
+
+.radius {
+  border-radius: 50px;
+}
+/* oval shaped products */
+.img-oval {
+  border-radius: 100%;
+}
+
+/* carousel */
+.style-txt {
+  font-family: serif;
+  font-size: 64px;
+}
+.pdding-bt{
+  padding-bottom: 16px;
+}
+.carousel-item:hover{
+  transform: scale(1.2);
+}
+.img-oval:hover{
+  transform: scale(1.1);
+
+}
+/* cards */
+.txt-cnt{
+  text-align: center;
+}
+.pdng{
+  padding-left: 16px;
+}
+/*
+cards */
+
+.btnz{
+  background-color: #EB7070;
+ border: none;
+ color: white;
+ padding: 15px 32px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 16px;
+}
+
+button:hover{
+  background-color: #FEC771;
+  color: #EB7070;
+}
+
+div[card]{
+  padding:  auto;
+}
+/* ----------------------------------
+checkout styles */
+.container {
+  max-width: 960px;
+}
+/* -------------------------------------- */
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.previous {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+.next {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.round {
+  border-radius: 50%;
+}
